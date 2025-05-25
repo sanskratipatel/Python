@@ -8,4 +8,4 @@ lst[0] = "dsiufidif"
 print("updated list " , lst)
 print("Length of list = ",len(lst))    
 for i in lst:
-    print(i ,"dssf")
+    print(i ,"listssss")
