@@ -1,4 +1,4 @@
-lst = ["Abhi", 12, 212.32,43,'K'] 
+lst = [ 12, 212.32,43,'K'] 
 print(lst) 
 print(type(lst)) 
 print(lst[0] ) 
