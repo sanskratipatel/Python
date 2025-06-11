@@ -128,8 +128,8 @@ Feel free to contribute more problems, optimize code, or organize files better. 
 
 If you have any suggestions or feedback, reach out:
 
-* 📧 Email: \[[your-email@example.com](patelsanskrati05@gmail.com)]
-* 💼 LinkedIn: \[[your-linkedin-profile](https://www.linkedin.com/in/sanskrati-patel-b2464b223/)]
+* 📧 Email: \[patelsanskrati05@gmail.com]()]
+* 💼 LinkedIn: \[(https://www.linkedin.com/in/sanskrati-patel-b2464b223/)]
 
 ---
 
