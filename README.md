@@ -1,4 +1,4 @@
-# 🐍 Python Basics Practice Repository
+#  Python Basics Practice Repository
 
 Welcome to the **Python Basics Practice Repository**! This repository contains a comprehensive collection of beginner-friendly Python programs covering fundamental topics such as:
 
