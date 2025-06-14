@@ -7,7 +7,7 @@ Welcome to the **Python Basics Practice Repository**! This repository contains a
 * 🔤 **Strings**
 * 🔢 **Sets**
 * 🧮 **Dictionaries**
-* 📐 **Conditions (if/else)**
+* 📐 **Conditions**
 * 🧠 **Logic building exercises**
 
 Each topic is organized through simple code snippets and practical problems to help new learners understand Python core concepts effectively.
