@@ -131,8 +131,4 @@ If you have any suggestions or feedback, reach out:
 * 📧 Email: \[patelsanskrati05@gmail.com]()]
 * 💼 LinkedIn: \[(https://www.linkedin.com/in/sanskrati-patel-b2464b223/)]
 
----
 
-## 📝 License
-
-This repository is open-sourced under the [MIT License](LICENSE).
