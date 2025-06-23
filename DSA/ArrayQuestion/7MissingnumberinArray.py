@@ -4,6 +4,7 @@
 # for i in range(0,n): 
 #     j = int(input(f"Enter {i} index value  = ")) 
 #     num.append(j)  
+
 num = [1,3,0,4,5,6,7,8,2]
 length = len(num)  
 print(length)
