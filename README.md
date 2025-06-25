@@ -106,7 +106,7 @@ python-basics/
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/yourusername/python-basics.git](https://github.com/sanskratipatel/Python.git)
+   [git clone https://github.com/sanskratipatel/python-basics.git](https://github.com/sanskratipatel/Python.git)
    cd python-basics
    ```
 
