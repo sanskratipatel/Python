@@ -52,7 +52,7 @@ python-basics/
 
 * Creating and modifying lists
 * List comprehensions
-* Common list operations (append, pop, slice, etc.)
+* Common list operations (append, pop, length, slice, etc.)
 
 ### ✅ Sets
 
