@@ -110,13 +110,6 @@ python-basics/
    cd python-basics
    ```
 
-2. Open any file and run it using Python:
-
-   ```bash
-   python lists/list_questions.py
-   ```
-
----
 
 ## 🌟 Contribution
 
