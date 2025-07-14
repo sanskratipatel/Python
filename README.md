@@ -94,9 +94,6 @@ python-basics/
 ---
 
 
-
----
-
 ## 🛠️ How to Use
 
 1. Clone the repository:
