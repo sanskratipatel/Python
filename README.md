@@ -93,11 +93,7 @@ python-basics/
 
 ---
 
-## 👨‍💻 Who is this for?
 
-* 🧑‍🎓 **Beginners learning Python**
-* 📚 **Students preparing for coding interviews**
-* 🔄 **Anyone who wants to revise core Python concepts**
 
 ---
 
