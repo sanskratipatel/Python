@@ -11,4 +11,3 @@ listw = [12,4,5,6]
 mylst.extend(listw) 
 print(mylst) 
 
-total = 0 
