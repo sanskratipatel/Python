@@ -93,7 +93,6 @@ python-basics/
 
 ---
 
-
 ## 🛠️ How to Use
 
 1. Clone the repository:
@@ -103,11 +102,8 @@ python-basics/
    cd python-basics
    ```
 
-
 ## 🌟 Contribution
-
-Feel free to contribute more problems, optimize code, or organize files better. Pull requests are always welcome!!!!
-
+Feel free to contribute more problems, optimize code, or organize files better. Pull requests are always welcome!!!
 ---
 
 ## 📬 Contact
