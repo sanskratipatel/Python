@@ -1,0 +1,10 @@
+{
+    "name": "Json",
+    "age": 112,
+    "work": "Nothing",
+    "is_alive": true,
+    "titles": [
+        "Engineer",
+        "Doctor"
+    ]
+}

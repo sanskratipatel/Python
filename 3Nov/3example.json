@@ -1,0 +1,16 @@
+{ 
+    "name" :"jane" , 
+    "age" :12 , 
+    "city" :"Bhopal", 
+    "is_alive" :true,
+    "children" :[ 
+        { 
+            "firstName" : "Alex", 
+            "age" :3 
+        },
+        { 
+            "firstName" : "Ahi" ,
+            "age" : 2
+        }
+    ]
+}
