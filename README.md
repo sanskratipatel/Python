@@ -1,4 +1,4 @@
-#  Python Practice Repository
+# Python Practice Repository
 
 Welcome to the **Python Basics Practice Repository**! This repository contains a comprehensive collection of beginner-friendly Python programs covering fundamental topics such as :-
 
@@ -51,7 +51,7 @@ python-basics/
 
 * Creating and modifying lists
 * List comprehensions
-* Common list operations (append, pop, length, slice, etc.)
+* Common list operations (append, extend, pop, length, slice, etc.)
 
 ### ✅ Sets
 
